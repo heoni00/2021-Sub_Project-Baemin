@@ -31,9 +31,9 @@ $\to$ 다양한 상황에 맞는 알고리즘 모델을 제시하고 각각의 �
 
 #### 서비스 기획 동기
 
-[<img width="679" alt="image" src="https://user-images.githubusercontent.com/67791317/199405871-d11c045c-4728-446b-8b99-ddf088b800ec.png">](https://github.com/heoni00/2021-Sub_Project-Baemin/tree/main/7.%20서비스제안서/1.%20배민%20불편사항%20코믹스#readme)
+[![배달의 민족 개인화 추천 서비스 제안서_page-0001](https://user-images.githubusercontent.com/67791317/199926974-d1bc593a-9f9b-4f92-b8f0-82613c8cfdf3.jpg)](https://github.com/heoni00/2021-Sub_Project-Baemin/tree/main/7.%20제안서%20자료/1.%20배민%20불편사항%20코믹스#readme)
 
-[배민 불편사항 코믹스 전편](https://github.com/heoni00/2021-Sub_Project-Baemin/tree/main/7.%20서비스제안서/1.%20배민%20불편사항%20코믹스#readme)
+[배민 불편사항 코믹스 전편](https://github.com/heoni00/2021-Sub_Project-Baemin/tree/main/7.%20제안서%20자료/1.%20배민%20불편사항%20코믹스#readme)
 
 본 팀이 만든 BM 제안서는 '우아한 형제들'에게 뜬금없는 제안서입니다. 본래 예정에 없고 신원이 불분명한 '어떤 팀'이 보낸 제안서입니다. 
 따라서 우선은 읽고 싶은 제안서를 만들어야했습니다. 때문에 **강렬한 인상**과 함께 프로제트를 관통하는 **화두**를 제안서 서두에 남겨야 한다 생각했습니다.  
@@ -42,28 +42,28 @@ $\to$ 다양한 상황에 맞는 알고리즘 모델을 제시하고 각각의 �
 
 #### 목차 
 
-<img width="923" alt="image" src="https://user-images.githubusercontent.com/67791317/199481589-aec57de6-413b-4fd7-873b-a5aabeccd2f0.png">
+![슬라이드1](https://user-images.githubusercontent.com/67791317/199927061-280f9800-7076-4ef2-ba43-4dcc67aea2dd.JPG)
 
 #### 서비스 분석 
 
-1. 문제점
+**1. 문제점**
 
-<img width="925" alt="스크린샷 2022-11-02 오후 8 45 43" src="https://user-images.githubusercontent.com/67791317/199482061-bb9dc1d5-a51b-4739-87fd-c0a58e1bf7d4.png">
-<img width="926" alt="스크린샷 2022-11-02 오후 8 45 56" src="https://user-images.githubusercontent.com/67791317/199482080-57558df6-8c69-4da9-8b95-d540d7804af3.png">
-<img width="926" alt="스크린샷 2022-11-02 오후 8 46 13" src="https://user-images.githubusercontent.com/67791317/199482084-f8cbf454-9f39-4224-bc94-5aedae62ee86.png">
+![슬라이드2](https://user-images.githubusercontent.com/67791317/199927172-ea1b9c73-3835-44bb-a7df-ba339382c52d.JPG)
+![슬라이드3](https://user-images.githubusercontent.com/67791317/199927184-2dfa12cc-d1e8-4e6f-a6b4-ecc0ad6262b5.JPG)
+![슬라이드4](https://user-images.githubusercontent.com/67791317/199927185-55276726-ff4b-4cd4-9993-066edb4014e8.JPG)
 
 실제 소비자 역할에서 발견한 문제점에서 파생한 '밈(**배민맛**)을 활용하여 제언한다.  
 배달음식에 대한 불만은 업계 모두가 짊어진 문제점이지만 '배달의 민족' 서비스가 대표 사례가 되는 문화를 꼬집으며 문제 시급성을 환기한다.  
 
-2. 문제 원인 분석
+**2. 문제 원인 분석**
 
-<img width="928" alt="스크린샷 2022-11-02 오후 8 57 33" src="https://user-images.githubusercontent.com/67791317/199484198-dca87072-ad24-46cb-8deb-ffce453a358e.png">
+![슬라이드6](https://user-images.githubusercontent.com/67791317/199927250-d54f8ead-3562-4d01-91ba-fa26776abfbf.JPG)
 
 문제 원인 분석에 있어 정량적 지표가 필요하지만 일종의 문화 현상을 문제 근거로 삼았기 때문에 정확한 지표를 구할 수 없는게 한계점이라 생각한다. 
 
-3. 해결방안 제시 
+**3. 해결방안 제시** 
 
-<img width="928" alt="image" src="https://user-images.githubusercontent.com/67791317/199483409-36c3f67b-9372-438e-ba91-432bf7e021f1.png">
+![슬라이드7](https://user-images.githubusercontent.com/67791317/199927321-f92576e8-f8cf-426f-aa11-b6f4b03bccb3.JPG)
 
 - 사용자가 배달할 음식과 가게를 선정할 기준의 지표가 부족한 점. 
 - 사용자의 기호(음식 취향)를 파악하여 좋아하는 음식을 제시하는 것이 아닌 음식과 가게의 양을 나열한점.  
@@ -72,9 +72,9 @@ $\to$ 다양한 상황에 맞는 알고리즘 모델을 제시하고 각각의 �
 
 #### 새로운 서비스 제시 
 
-1. 새로운 슬로건
+**1. 새로운 슬로건**
 
-<img width="625" alt="image" src="https://user-images.githubusercontent.com/67791317/199487386-0e4e7411-cb7f-4114-82ab-287a91ac3bce.png">
+![슬라이드8](https://user-images.githubusercontent.com/67791317/199927376-b87ae133-cc75-4d80-9e75-094312d52f98.JPG)
 
 기존 '좋은음식을 먹고싶은 곳에서'라는 슬로건이 아닌 '**좋아하는**은식을 먹고싶은 곳에서'라는 슬로건을 제시합니다. 
 
@@ -82,22 +82,22 @@ $\to$ 다양한 상황에 맞는 알고리즘 모델을 제시하고 각각의 �
 
 미디어 산업에서는 이미 이러한 서비스를 아주 잘 실천하고 있습니다. 넷플릭스, 유튜브 처럼요!
 
-2. UI 
+**2. UI**
 
-<img width="628" alt="스크린샷 2022-11-02 오후 9 22 02" src="https://user-images.githubusercontent.com/67791317/199490087-50504db1-07a6-4c24-9f42-3c21310e50af.png">
+![슬라이드9](https://user-images.githubusercontent.com/67791317/199927418-f5e0454e-73ea-412c-8d37-adf275b55037.JPG)
 
 개인 추천화 시스템은 총 4가지 종류의 추천탭을 활용할 예정이며 그에 맞는 UI를 구성했습니다. 
 
-3. 알고리즘
+**3. 알고리즘**
 
 <details>
 <summary>알고리즘에 대한 설명 </summary>
 
-<img width="626" alt="스크린샷 2022-11-02 오후 9 35 49" src="https://user-images.githubusercontent.com/67791317/199491273-95aa08f5-b44b-4288-95df-993052078719.png">
-<img width="625" alt="스크린샷 2022-11-02 오후 9 36 12" src="https://user-images.githubusercontent.com/67791317/199491279-1360dae1-6871-473a-a703-94a85d8c748a.png">
-<img width="624" alt="스크린샷 2022-11-02 오후 9 36 19" src="https://user-images.githubusercontent.com/67791317/199491283-6485e898-610c-4eda-8c4b-4ae5d7751867.png">
-<img width="627" alt="스크린샷 2022-11-02 오후 9 36 28" src="https://user-images.githubusercontent.com/67791317/199491285-b6cf43ee-ad8a-4647-9b35-8b6eebd96afa.png">
-<img width="627" alt="스크린샷 2022-11-02 오후 9 36 51" src="https://user-images.githubusercontent.com/67791317/199491287-50dbcc20-6928-4bf5-800a-31e97329129f.png">
+![슬라이드10](https://user-images.githubusercontent.com/67791317/199927609-3dc5e680-63cc-4df3-a881-3ecb3dc3698d.JPG)
+![슬라이드11](https://user-images.githubusercontent.com/67791317/199927611-1446733e-9149-4246-8b65-80291487b0b2.JPG)
+![슬라이드12](https://user-images.githubusercontent.com/67791317/199927613-97c6b82a-2fdf-4a8a-9260-efe03a02493d.JPG)
+![슬라이드13](https://user-images.githubusercontent.com/67791317/199927616-313810bb-00dd-48b0-a006-72ee471d4495.JPG)
+![슬라이드14](https://user-images.githubusercontent.com/67791317/199927618-11bf98e7-0f0e-4b66-91ae-8ccf36be5370.JPG)
 
 </div>
 </details>
@@ -106,21 +106,21 @@ $\to$ 다양한 상황에 맞는 알고리즘 모델을 제시하고 각각의 �
 
 #### 서비스 채택
 
-1. 기대효과 
+**1. 기대효과** 
 
-<img width="628" alt="image" src="https://user-images.githubusercontent.com/67791317/199492397-8ecce758-8d1c-40fa-b506-a953c5b2f5c7.png">
+![슬라이드17](https://user-images.githubusercontent.com/67791317/199927733-0fb4ae54-56c1-4897-90be-61b2dd370a62.JPG)
 
 BM 즉 비즈니스와 관련한 기획이라면 정성적 발전 이외에 정량적 기대효과를 제시해야하는데 이번 프로젝트에서는 그 부분이 매우 부족했음을 알아 아쉬운 부분이다. 당연스럽게 우리 서비스를 채택하면 사용자가 만족할 것! 이라고 제창하는 한계가 여실히 느껴진다. 
 
-2. 리스크헷지 
+**2. 리스크헷지** 
 
-<img width="627" alt="image" src="https://user-images.githubusercontent.com/67791317/199492835-8b47b4c1-4bb2-4163-ab3f-958effbd061b.png">
+![슬라이드18](https://user-images.githubusercontent.com/67791317/199927756-9f738ce9-d251-4e9d-917f-0ea5e35fe064.JPG)
 
 개인적으로 만족했던 부분은 모든 서비스 기획안에는 예상리스크(리스크헷지)를 꼭 첨부하고 이를 인지할 수 있어야 하는 부분이다. 개인 추천화 시스템에 대한 논문 및 여러 한계점에 대해 서칭하여 위와 같은 예상 문제점을 첨부했다. 
 
 #### 레퍼런스 
 
-<img width="623" alt="image" src="https://user-images.githubusercontent.com/67791317/199493269-25ae6eb5-7795-4e20-8289-036491adb2a8.png">
+![슬라이드22](https://user-images.githubusercontent.com/67791317/199928162-28b523d4-85b8-478e-863c-ab53b0f03304.jpg)
 
 ### 마지막으로 ,,
 
