@@ -1,5 +1,5 @@
-<img width="626" alt="스크린샷 2022-11-02 오후 9 35 49" src="https://user-images.githubusercontent.com/67791317/199491567-9b3ce77f-15aa-42ce-b22b-1290c6c46c6a.png">
-<img width="625" alt="스크린샷 2022-11-02 오후 9 36 12" src="https://user-images.githubusercontent.com/67791317/199491576-4a0cfe48-8a0b-4a8f-894c-9c1e50ef901d.png">
-<img width="624" alt="스크린샷 2022-11-02 오후 9 36 19" src="https://user-images.githubusercontent.com/67791317/199491578-30732959-c313-40e6-894b-b7223c0b94d1.png">
-<img width="627" alt="스크린샷 2022-11-02 오후 9 36 28" src="https://user-images.githubusercontent.com/67791317/199491580-3e5d14cf-62a7-4b1a-ac74-d5b0c22f7d63.png">
-<img width="627" alt="스크린샷 2022-11-02 오후 9 36 51" src="https://user-images.githubusercontent.com/67791317/199491582-5ff488bf-1036-4a08-b304-4b82351891cb.png">
+![슬라이드10](https://user-images.githubusercontent.com/67791317/199927514-977b069d-af3c-4d93-a109-a6cf762e9299.JPG)
+![슬라이드11](https://user-images.githubusercontent.com/67791317/199927520-a0b818be-87ab-41ec-95a0-e8fac1da4013.JPG)
+![슬라이드12](https://user-images.githubusercontent.com/67791317/199927525-235531dd-8e9c-40ce-a174-4b4c75b8853a.JPG)
+![슬라이드13](https://user-images.githubusercontent.com/67791317/199927528-4ed330a3-484c-4794-a331-f49026011f71.JPG)
+![슬라이드14](https://user-images.githubusercontent.com/67791317/199927531-ecb0c79d-1c94-4c95-8d78-4e265eead1ee.JPG)
